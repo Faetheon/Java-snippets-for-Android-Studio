@@ -1,0 +1,5 @@
+<resources>
+<string-array name = "enterName">
+  <item>NameOfItem</item> //repeatable operation to add more strings to your array.
+</string-array>
+</resources>
